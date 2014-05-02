@@ -1,0 +1,1 @@
+return "Sup hater world"
